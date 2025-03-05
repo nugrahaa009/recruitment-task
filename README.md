@@ -2,19 +2,19 @@
 
 ## 📦 Project Setup
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini secara lokal.
+Follow the steps below to run this project locally.
 
-### 1️⃣ Clone Repository
+### 1️⃣ Clone the Repository
 
 ```bash
-# Menggunakan HTTPS
-git clone https://github.com/username/repo-name.git
+# Using HTTPS
+git clone https://github.com/nugrahaa009/recruitment-task.git
 
-# atau menggunakan SSH
-git clone git@github.com:username/repo-name.git
+# or using SSH
+git clone git@github.com:nugrahaa009/recruitment-task.git
 
-# Masuk ke direktori proyek
-cd repo-name
+# Navigate to the project directory
+cd recruitment-task
 ```
 
 ### 2️⃣ Install Dependencies
@@ -23,20 +23,20 @@ cd repo-name
 npm install
 ```
 
-### 3️⃣ Jalankan Development Server
+### 3️⃣ Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-Server akan berjalan di `http://localhost:5173` secara default.
+By default, the server will run at `http://localhost:5173`.
 
 ## 🛠️ Tech Stack
 
-Proyek ini menggunakan teknologi berikut:
+This project uses the following technologies:
 
-- **Ant Design (Antd)** — untuk komponen UI.
-- **React Context** — untuk manajemen state.
-- **Vite** — sebagai build tool dan dev server.
+- **Ant Design (Antd)** — for UI components.
+- **React Context** — for state management.
+- **Vite** — as the build tool and dev server.
 
 ---
